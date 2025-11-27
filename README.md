@@ -1,4 +1,4 @@
-# Hi there, I'm [Tor344]! 👋
+# Hi there, I'm Tor344! 👋
 
 ### 🎓 IT Student | 🐍 Python Developer (3 Years Exp) | 🔐 Cybersecurity Enthusiast
 
@@ -34,22 +34,6 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ВАШ_НИКНЕЙМ&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ВАШ_НИКНЕЙМ&layout=compact&theme=tokyonight"/>
-  </a>
-</div>
-
----
-
-### 🎧 Recent Activity
-
-* 👨‍💻 Developing advanced VPN management tools
-* 🛡️ Solving CTF challenges on HackTheBox/TryHackMe
 
 ### 📫 Connect with me
 
